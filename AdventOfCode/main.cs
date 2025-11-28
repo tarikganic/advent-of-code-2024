@@ -5,8 +5,8 @@ class Program
     static void Main()
     {
 
-        Day02.Solve();
-
+        Day03.Solve();
+        Day03.SolvePart2();
 
     }
 }
